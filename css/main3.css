@@ -1,0 +1,84 @@
+.box{
+    width: 1200px;
+    margin: 20 auto;
+}
+.solid{
+    width: 200px;
+    height: 200px;
+    border: 3px solid gray;
+    text-align: center;
+    line-height: 180px;
+    font-size: 50px;
+    margin-left: 300px;
+    margin-top: -205;
+}
+.dashed{
+    width: 200px;
+    height: 200px;
+    border: 3px dashed gray;
+    line-height: 180px;
+    font-size: 50px;
+    margin-left: 550px;
+    margin-top: -205px;
+    text-align: center;
+}
+.dotted{
+    width: 200px;
+    height: 200px;
+    border: 3px dashed gray;
+    line-height: 180px;
+    font-size: 50px;
+    margin-left: 800px;
+    margin-top: -204px;
+    text-align: center;
+}
+.double{
+    width: 200px;
+    height: 200px;
+    border: 5px double gray;
+    line-height: 180px;
+    font-size: 50px;
+    margin-left: 1050px;
+    margin-top: -204px;
+    text-align: center;
+}
+.inset{
+    width: 200px;
+    height: 200px;
+    border: 10px inset gray;
+    line-height: 180px;
+    font-size: 50px;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.outset{
+    width: 200px;
+    height: 200px;
+    border: 10px outset gray;
+    line-height: 180px;
+    font-size: 50px;
+    text-align: center;
+    margin-left: 550px;
+    margin-top: -220px
+}
+.groove{
+    width: 200px;
+    height: 200px;
+    border: 10px groove gray;
+    line-height: 180px;
+    font-size: 50px;
+    text-align: center;
+    margin-left: 800px;
+    margin-top: -220px
+}
+.ridge{
+    width: 200px;
+    height: 200px;
+    border: 10px ridge gray;
+    line-height: 180px;
+    font-size: 50px;
+    text-align: center;
+    margin-left: 1050px;
+    margin-top: -220px
+}
